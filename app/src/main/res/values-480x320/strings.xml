@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">点名APP</string>
+    <string name="Spinner">
+        <item>在勤</item>
+        <item>迟到</item>
+        <item>早退</item>
+        <item>旷课</item>
+        <item>病假</item>
+    </string>
+</resources>
